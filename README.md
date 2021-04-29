@@ -59,7 +59,7 @@ Market capitalization amount is the main metric being used today to determine th
 
 
 
-Work Cited:
+## Work Cited:
 •	Ripple.com
 •	https://ripple.com/company/
 •	https://www.crunchbase.com/organization/ripple-labs
