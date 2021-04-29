@@ -1,18 +1,25 @@
 ### NW-Fintech-Case-Study
 
-### Title: 				Northwestern Fintech Case Study
+### Title: 				
+Northwestern Fintech Case Study
 
-### Name of Company: 	RIPPLE LABS and the XRP Token
+### Name of Company: 	
+RIPPLE LABS and the XRP Token
 
-### Overview & Origin: 	Ripple Labs, Inc. is an American technology company which develops the Ripple payment protocol and exchange network. The Company is based in San Francisco, California.
+### Overview & Origin: 	
+Ripple Labs, Inc. is an American technology company which develops the Ripple payment protocol and exchange network. The Company is based in San Francisco, California.
 
-### Date of Incorporation: 	Originally named Opencoin in 2012, it was renamed Ripple Labs in 2015, the company was founded in 2012.
+### Date of Incorporation: 	
+Originally named Opencoin in 2012, it was renamed Ripple Labs in 2015, the company was founded in 2012.
 
-### Founders: 	Jed McCaleb and Chris Larsen 
+### Founders: 	
+Jed McCaleb and Chris Larsen 
 
-### Main Idea for the project:  With the most advanced blockchain technology for global payments, financial institutions are able to expand into new markets around the world and eliminate pre-funding by leveraging the power of XRP token through Ripple net on demand liquidity services. The goal of Ripple Labs is to build a more inclusive financial system where everyone has access to better financial services while accelerating the internet of value to customers all over the world. 
+### Main Idea for the project:  
+With the most advanced blockchain technology for global payments, financial institutions are able to expand into new markets around the world and eliminate pre-funding by leveraging the power of XRP token through Ripple net on demand liquidity services. The goal of Ripple Labs is to build a more inclusive financial system where everyone has access to better financial services while accelerating the internet of value to customers all over the world. 
 
-### Company Funds/Investors:  Ripple has raised a total of $293.8M in funding over 13 rounds. Their latest funding was raised on Apr 3, 2020 from a Secondary Market round.
+### Company Funds/Investors:  
+Ripple has raised a total of $293.8M in funding over 13 rounds. Their latest funding was raised on Apr 3, 2020 from a Secondary Market round.
 
 
 ## BUSINESS ACTIVITIES
