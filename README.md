@@ -1,4 +1,4 @@
-### NW-Fintech-Case-Study
+### Case Study on Ripple Labs and the XRP Token
 
 ### Title: 				
 Case Study on Ripple Labs and the XRP Token
