@@ -1,7 +1,7 @@
 ### NW-Fintech-Case-Study
 
 ### Title: 				
-Northwestern Fintech Case Study
+Case Study on Ripple Labs and the XRP Token
 
 ### Name of Company: 	
 RIPPLE LABS and the XRP Token
